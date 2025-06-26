@@ -13,7 +13,7 @@ Proyek ini melakukan deteksi lubang jalan (*pothole*) secara sederhana pada vide
 
 ## 🧰 Kebutuhan
 Download sampel video yang digunakan dalam proyek ini disini:
-https://drive.google.com/file/d/11yDEMhECS887tSyKrbxqPn4gaHFtZwoE/view?usp=sharing
+https://drive.google.com/file/d/1rDsXpmt5lZ9AnK6BCgc2hHmdjCgcDPVK/view?usp=sharing
 
 Lalu, jalankan perintah berikut di sel kode Colab untuk menginstal dependensi (jika belum tersedia):
 
@@ -34,7 +34,9 @@ Pastikan video Anda disimpan di Google Drive dan path-nya sesuai di script (misa
 
 ## 🧪 Cara Menjalankan
 
-Buka dan jalankan file notebook [`DetectionPlotholeCanny.ipynb`](./DetectionPlotholeCanny.ipynb) di Google Colab.
+Buka dan jalankan file notebook [`TB_VISKOM_D121221054.ipynb`](./TB_VISKOM_D121221054.ipynb) di Google Colab.
+(untu File satunya yang DetectionPlotholeCanny.ipynb merupakan source program sebelum revisi bersama dosen pada saat presentasi akhir
+Tugas Besar Mata Kulia Visi KOmputer)
 
 Pastikan Anda:
 
